@@ -1,0 +1,14 @@
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\bin\Debug\net7.0\Cadastro_de_Clientes.exe
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\bin\Debug\net7.0\Cadastro_de_Clientes.deps.json
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\bin\Debug\net7.0\Cadastro_de_Clientes.runtimeconfig.json
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\bin\Debug\net7.0\Cadastro_de_Clientes.dll
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\bin\Debug\net7.0\Cadastro_de_Clientes.pdb
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.AssemblyInfoInputs.cache
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.AssemblyInfo.cs
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.csproj.CoreCompileInputs.cache
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.dll
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\refint\Cadastro_de_Clientes.dll
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.pdb
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\Cadastro_de_Clientes.genruntimeconfig.cache
+C:\Users\jhons\source\repos\Estudo C#\Cadastro_de_Clientes\Cadastro_de_Clientes\obj\Debug\net7.0\ref\Cadastro_de_Clientes.dll
